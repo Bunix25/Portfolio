@@ -24,7 +24,7 @@ I added the following elements to my page to make it more dynamic:
 
 ## Link to Deploy
 
-[Portfolio: Sviatoslav Zakharuk](https://github.com/Bunix25?tab=repositories/)
+[Portfolio: Sviatoslav Zakharuk](https://bunix25.github.io/Portfolio/)
 
 ## Screenshot
 
