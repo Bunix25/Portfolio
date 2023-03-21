@@ -28,6 +28,6 @@ I added the following elements to my page to make it more dynamic:
 
 ## Screenshot
 
-![Screenshot of Portfolio Page](./Assets/Images/screenshot.png)
+![Screenshot of Portfolio Page](./Assets/Images/screenshot22.png)
 
 

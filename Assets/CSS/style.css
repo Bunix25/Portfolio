@@ -252,6 +252,30 @@ h3 {
 }
 
 
+/* CSS styles for project-2.png */
+img[src="Assets/Images/project-2.png"] {
+    /* add your styles here */
+    border: solid 10px var(--teal);
+    margin: 5%;
+    opacity: 0.85;
+    
+    width: 500px;
+  height: 500px;
+  margin: 20px;
+    
+  }
+
+
+  /* CSS styles for screen1.png */
+img[src="Assets/Images/screen1.png"] {
+    /* add your styles here */
+    border: solid 10px var(--teal);
+    margin: 5%;
+    opacity: 0.85;
+    width: 500px;
+  height: 500px;
+  margin: 20px;
+  }
 /* Media queries for max-wdith of 992px, 768px and 576px */
 
 @media screen and (max-width: 992px) {
